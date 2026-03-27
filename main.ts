@@ -5,7 +5,7 @@ modified from chengengyue
 
 
 //% color="#0000cd" weight=20 icon="\uf002"
-namespace module_World_Color {
+namespace module_world_Color {
 
     const COLOR_ADD = 0X53;
     const COLOR_REG = 0x00;
