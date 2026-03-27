@@ -1,16 +1,15 @@
 {
-    "name": "module-world-color",
-    "version": "0.0.2",
-    "description": "Module World Color Extension",
-    "license": "MIT",
-    "dependencies": {
-        "core": "*"
-    },
-    "files": [
-        "main.ts"
-    ],
-    "testFiles": [
-        "test.ts"
-    ],
-    "public": true
+  "name": "module-world-color",
+  "version": "0.0.1",
+  "description": "Module World Color Extension",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "testFiles": [],
+  "public": true,
+  "preferredEditor": "tsprj"
 }
